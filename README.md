@@ -1,6 +1,7 @@
 # DotClock
 
-LaMetric Time 風のドットマトリクス時計 Web アプリ。
+LaMetric Time 風のドットマトリクス時計 Web アプリ。  
+[Github Pages - dotclock](https://standard-e8.github.io/dotclock/)
 
 ## 特徴
 
